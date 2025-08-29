@@ -16,5 +16,5 @@
 
 .ingredientes2{
     list-style-type: none;
-    float: right;
+    display: table-column;
 }
