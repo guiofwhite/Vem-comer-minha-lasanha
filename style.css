@@ -1,5 +1,6 @@
 .titulo {
-    font-family: "Libertinus Keyboard", system-ui;
-    font-weight: 400;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
     font-style: normal;
 }
