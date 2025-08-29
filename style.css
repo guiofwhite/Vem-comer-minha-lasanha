@@ -3,6 +3,7 @@
     font-optical-sizing: auto;
     font-size: 30px;
     font-style: normal;
+    font-weight: 100;
 }
 
 
@@ -18,7 +19,7 @@
 .ingredientes{
     list-style-type: none;
     padding: 10px;
-    margin: 1.5;
+    
 }
 
 .ingredientes2{
