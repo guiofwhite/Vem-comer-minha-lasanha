@@ -10,11 +10,14 @@
     text-align: center;
 }
 
+.lista{
+    list-style-position: outside;
+}
+
 .ingredientes{
     list-style-type: none;
 }
 
 .ingredientes2{
     list-style-type: none;
-    padding-left: 42%;
 }
