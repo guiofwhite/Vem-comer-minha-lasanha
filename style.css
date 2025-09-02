@@ -33,5 +33,6 @@ body{
     list-style-type: none;
     padding: 10px;
     position: absolute;
-    margin-left: 5dvw;
+    margin-left: 10dvw;
+    margin-bottom: 5dvh;
 }
