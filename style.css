@@ -26,6 +26,7 @@ body{
 .ingredientes{
     list-style-type: none;
     padding: 10px;
+    margin-left: 12dvh;
     
 }
 
@@ -33,11 +34,11 @@ body{
     list-style-type: none;
     padding: 7px;
     position: absolute;
-    margin-left: 27dvw;
+    margin-left: 35dvw;
     margin-top: -39dvh;
 }
 
 .img_lateral{
-    margin-left: 50dvw;
+    margin-left: 60dvw;
     margin-top: -40dvh;
 }
