@@ -45,5 +45,5 @@ body{
 hr{
     height: 5px;
     color: black;
-    border: none;
+    border: 5px;
 }
