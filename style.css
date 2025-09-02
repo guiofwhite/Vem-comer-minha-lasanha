@@ -43,5 +43,7 @@ body{
     margin-top: -40dvh;
 }
 hr{
-    height: 20px;
+    height: 5px;
+    color: black;
+    border: none;
 }
