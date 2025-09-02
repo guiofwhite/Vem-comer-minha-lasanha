@@ -35,8 +35,8 @@ body{
     list-style-type: none;
     padding: 7px;
     position: absolute;
-    margin-left: 35dvw;
-    margin-top: -36dvh;
+    margin-left: 42dvw;
+    margin-top: -38dvh;
 }
 
 .img_lateral{
@@ -51,5 +51,5 @@ hr{
 }
 
 .titulo2{
-    margin-left: 2dvw;
+    margin-left: 25dvw;
 }
